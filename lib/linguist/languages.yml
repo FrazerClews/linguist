@@ -525,6 +525,16 @@ Brightscript:
   tm_scope: source.brightscript
   ace_mode: text
   language_id: 39
+BuildStream:
+  type: programming
+  color: "#006BFF"
+  extensions:
+  - ".bst"
+  ace_mode: yaml
+  codemirror_mode: yaml
+  codemirror_mime_type: text/x-yaml
+  tm_scope: source.yaml
+  language_id: 84359046
 C:
   type: programming
   color: "#555555"
